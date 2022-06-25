@@ -1,0 +1,45 @@
+Array of objects 
+what is JSON ?
+copy by value and copy by reference 
+Window and document object 
+
+window : the overall displsy screen is called as window.
+document : the clean white page of a browser is called a document.
+
+copy by value :
+when a variable is assigned to a value, memory is allocated for that variable.
+
+copy by reference:
+
+What is JSON?
+Javascript object notation(representation)
+it comes to overvcome the drawbacks of XML request.
+in Json format both the key and value pairs should be comes under double quotes "".
+
+API:
+application programming interface
+
+for loop and for in loop:
+
+for(var i=0; i<array.length; i++){
+    console.log(i)
+}
+
+syntax:
+for(variable in ojectname){
+
+}
+
+for (var i in array){
+    console.log(i)
+}
+if u want to print both the key and value pair value as an output go for , for in loop.
+
+print the value of id, name, email of all the array of objects in a line using for in loop.
+
+print only the first 5 datas from the given input using for loop.
+
+W3 schools
+
+
+
